@@ -1,8 +1,8 @@
 {
-    "name": "tilleuls/amazon-mws-orders",
+    "name": "tilleuls/amazon-mws-products",
     "type": "library",
-    "description": "Amazon Marketplace Web Service Orders PHP Client Library",
-    "keywords": ["amazon", "mws", "orders", "client", "api", "library"],
+    "description": "Amazon Marketplace Web Service Products PHP Client Library",
+    "keywords": ["amazon", "mws", "products", "client", "api", "library"],
     "homepage": "http://les-tilleuls.coop",
     "licence": "Apache-2.0",
     "authors": [
